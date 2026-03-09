@@ -47,3 +47,5 @@ Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 
 ```
+
+<img width="566" height="513" alt="Captura de tela Rede-Domestica" src="https://github.com/user-attachments/assets/9a40b306-174e-4d23-94f2-3de726d6349a" />
