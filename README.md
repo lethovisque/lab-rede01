@@ -23,3 +23,19 @@ Data: 09/03/2026
 - 1 impressora de rede
 - 4 cabos de rede
 
+## 3. Topologia da Rede 
+Diagrama Lógico da rede utilizada neste laboratório
+
+```mermaid
+graph TD
+
+WAN(internet / WAN do Provedor)
+ 
+Router(roteador wiriless<br>1 Porta WAN<br> 4 portas LAN)
+
+PC1(Notebook 1) 
+PC2(Notebook 2)
+PC3(Notebook 3)
+
+Printer(Impressora da Rede)
+```
